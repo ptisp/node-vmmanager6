@@ -1,0 +1,14 @@
+{
+  "name": "vmmanager6",
+  "version": "1.0.0",
+  "description": "Vm Manager 6 module for Node.js",
+  "main": "./lib/vmmanager",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Graca",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
